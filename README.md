@@ -4,6 +4,15 @@
   <img src="readme-assets/usd_viewer.jpg" width=100% />
 </p>
 
+## :warning: Branch Removal Notice
+
+**The 105.1 and 105.1-viewer branches are now end-of-life.** As part of our efforts to streamline development and improve efficiency, both branches will be removed from this repository on **February 15, 2025**.
+
+Moving forward, we strongly encourage you to switch to the [main branch](https://github.com/NVIDIA-Omniverse/kit-app-template) to continue receiving the latest updates, features, and improvements.
+
+If you have any questions or need assistance with this transition, please open an issue using our 
+[Question Issue Template](https://github.com/NVIDIA-Omniverse/kit-app-template/issues/new?template=question.yml)
+
 **Based On:** `Omniverse Kit SDK 105.1`
 
 
