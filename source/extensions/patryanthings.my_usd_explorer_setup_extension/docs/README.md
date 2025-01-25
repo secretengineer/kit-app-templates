@@ -1,0 +1,1 @@
+# My USD Explorer Setup Extension [patryanthings.my_usd_explorer_setup_extension]
